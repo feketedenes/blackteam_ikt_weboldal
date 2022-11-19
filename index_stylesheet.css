@@ -1,0 +1,15 @@
+h1{
+    font-size: 35pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18pt;
+}
+.fejlec{
+    height: 250px;
+    width: 500px;
+    text-align: center;
+    
+}
