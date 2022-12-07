@@ -8,8 +8,22 @@ h2{
     font-size: 18pt;
 }
 .fejlec{
-    height: 250px;
-    width: 500px;
-    text-align: center;
-    
+    height: 400px;
+    background-image: url(spaghetti.jpg);
+    align-self: center;
+    vertical-align: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    border-bottom: 10px solid #141414;
+}
+h1{
+    margin: 0%;
+    padding-top: 150px;
+    padding-left: 150px;
+    text-align: left;
+    color: tan;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    text-shadow: 3px 3px 5px black;
 }
